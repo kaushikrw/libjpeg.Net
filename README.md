@@ -1,5 +1,7 @@
 # libjpeg.Net
-Libjpeg C# and Unity Wrapper Source
+Libjpeg C# and Unity Wrapper Source.
+
+Based on https://github.com/libjpeg-turbo/libjpeg-turbo
 
 Standalone Source Code
 
