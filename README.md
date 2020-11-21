@@ -18,3 +18,7 @@ C#
     [DllImport("nativejpeg")]
     private static extern IntPtr read_Image(int size, IntPtr _img, StringBuilder logfile);
 ```
+
+# Build
+
+use **ndk-build** to create respective **.so** file.
