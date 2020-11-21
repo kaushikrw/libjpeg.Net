@@ -13,7 +13,7 @@ Wrapper is part of another project
 extern "C" unsigned char * read_Image(int size, unsigned char *_img, char *logfile)
 ```
 
-Intptr is marshalled before and after receiving pointers to the data from the c++ unmanaged code.
+Intptr is marshalled before and after receiving pointers to the data from the c unmanaged code.
 
 ```
 C#
